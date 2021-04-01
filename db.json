@@ -6,7 +6,24 @@
       "title": "Reado Kids",
       "description": "Web App designed to teach kids how to read in Spanish in a fun and entertaining way.",
       "date": "October, 2020",
-      "stack": ["@/assets/react.png", "@/assets/javascript.png", "@/assets/tailwind.png", "@/assets/react.png"],
+      "stack": [
+        {
+          "id": "1",
+          "src": "@/assets/react.png"
+        },
+        {
+          "id": "2",
+          "src": "@/assets/javascript.png"
+        },
+        {
+          "id": "3",
+          "src": "@/assets/tailwind.png"
+        },
+        {
+          "id": "4",
+          "src": "@/assets/react.png"
+        }
+      ],
       "hosted": "Netlify",
       "link": "https://readokids.app/",
       "image": "",
@@ -19,12 +36,30 @@
       "description": "Back-End Reado Kids Description",
       "date": "November, 2020",
       "stack": [
-        "NodeJS",
-        "Typescript",
-        "Express",
-        "GraphQL",
-        "PostgreSQL",
-        "AWS"
+        {
+          "id": "5",
+          "src": "NodeJS"
+        },
+        {
+          "id": "6",
+          "src": "Typescript"
+        },
+        {
+          "id": "7",
+          "src": "Express"
+        },
+        {
+          "id": "8",
+          "src": "GraphQL"
+        },
+        {
+          "id": "9",
+          "src": "PostgreSQL"
+        },
+        {
+          "id": "10",
+          "src": "AWS"
+        }
       ],
       "hosted": "Heroku",
       "link": "",
