@@ -9,19 +9,28 @@
       "stack": [
         {
           "id": "1",
+          "name": "ReactJS",
           "src": "@/assets/react.png"
         },
         {
           "id": "2",
+          "name": "Javascript",
           "src": "@/assets/javascript.png"
         },
         {
           "id": "3",
+          "name": "TailwindCSS",
           "src": "@/assets/tailwind.png"
         },
         {
           "id": "4",
-          "src": "@/assets/react.png"
+          "name": "Apollo",
+          "src": "@/assets/apollo.png"
+        },
+        {
+          "id": "5",
+          "name": "Netlify",
+          "src": "@/assets/netlify.png"
         }
       ],
       "hosted": "Netlify",
@@ -37,28 +46,39 @@
       "date": "November, 2020",
       "stack": [
         {
-          "id": "5",
+          "id": "6",
+          "name": "NodeJS",
           "src": "NodeJS"
         },
         {
-          "id": "6",
+          "id": "7",
+          "name": "Typescript",
           "src": "Typescript"
         },
         {
-          "id": "7",
+          "id": "8",
+          "name": "Express",
           "src": "Express"
         },
         {
-          "id": "8",
+          "id": "9",
+          "name": "GraphQL",
           "src": "GraphQL"
         },
         {
-          "id": "9",
+          "id": "10",
+          "name": "PostgreSQL",
           "src": "PostgreSQL"
         },
         {
-          "id": "10",
+          "id": "11",
+          "name": "AWS",
           "src": "AWS"
+        },
+        {
+          "id": "12",
+          "name": "Heroku",
+          "src": "Heroku"
         }
       ],
       "hosted": "Heroku",
