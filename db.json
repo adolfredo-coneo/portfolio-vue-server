@@ -10,27 +10,27 @@
         {
           "id": "1",
           "name": "ReactJS",
-          "src": "@/assets/react.png"
+          "src": "assets/react.png"
         },
         {
           "id": "2",
           "name": "Javascript",
-          "src": "@/assets/javascript.png"
+          "src": "assets/javascript.png"
         },
         {
           "id": "3",
           "name": "TailwindCSS",
-          "src": "@/assets/tailwind.png"
+          "src": "assets/tailwind.png"
         },
         {
           "id": "4",
           "name": "Apollo",
-          "src": "@/assets/apollo.png"
+          "src": "assets/apollo.png"
         },
         {
           "id": "5",
           "name": "Netlify",
-          "src": "@/assets/netlify.png"
+          "src": "assets/netlify.png"
         }
       ],
       "hosted": "Netlify",
