@@ -35,7 +35,7 @@
       ],
       "hosted": "Netlify",
       "link": "https://readokids.app/",
-      "image": "",
+      "image": "assets/reado2.png",
       "status": true
     },
     {
@@ -83,7 +83,7 @@
       ],
       "hosted": "Heroku",
       "link": "",
-      "image": "",
+      "image": "assets/reado_backend.png",
       "status": true
     }
   ]
