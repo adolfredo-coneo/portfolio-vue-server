@@ -42,7 +42,7 @@
       "id": 2,
       "category": "Back-End",
       "title": "GraphQL API for Reado Kids",
-      "description": "Back-End Reado Kids Description",
+      "description": "GraphQL API services built using NodeJS, PostgreSQL and AWS.  It is used by the Reado Kids app.",
       "date": "November, 2020",
       "stack": [
         {
