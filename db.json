@@ -85,6 +85,34 @@
       "link": "",
       "image": "assets/reado_backend.png",
       "status": true
+    },
+    {
+      "id": 4,
+      "category": "Front-End",
+      "title": "Daniel Manotas Portfolio Page",
+      "description": "It is a firm that provides professional architectural design, interior and exterior design services.",
+      "date": "June, 2019",
+      "stack": [
+        {
+          "id": "13",
+          "name": "Wordpress",
+          "src": "assets/wordpress.png"
+        },
+        {
+          "id": "14",
+          "name": "PHP",
+          "src": "assets/php.png"
+        },
+        {
+          "id": "15",
+          "name": "MySQL",
+          "src": "assets/mysql.png"
+        }
+      ],
+      "hosted": "GoDaddy",
+      "link": "http://www.danielmanotas.com/",
+      "image": "assets/danielmanotas.png",
+      "status": true
     }
   ],
   "contacts": [
